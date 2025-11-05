@@ -1,3 +1,4 @@
 Learing NLP
 - Mempelajari NLP
 - Membuat ChatBot yang sudah NLP
+- Menambahkan Model di NLP
